@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Galada|Roboto+Slab');
+
+
+body {
+font-family:'Roboto Slab';
+font-size:14px;
+}
+
+
+.heading {
+  font-family: 'Lobster', cursive;
+}
+
+nav {
+  background-color: #FF5733
+}
